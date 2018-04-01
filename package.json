@@ -1,0 +1,21 @@
+{
+  "name": "node-auth",
+  "version": "1.0.0",
+  "description": "simple nodejs authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pasan Missaka",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.0",
+    "mongoose": "^5.0.12",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.17.3",
+    "passport": "^0.4.0"
+  }
+}
